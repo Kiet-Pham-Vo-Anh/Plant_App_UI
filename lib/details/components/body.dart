@@ -4,6 +4,7 @@ import 'package:plant_app/constants.dart';
 
 import 'icon_card.dart';
 import 'image_and_icons.dart';
+import 'title_and_price.dart';
 
 class Body extends StatelessWidget {
   const Body({super.key});
@@ -15,6 +16,7 @@ class Body extends StatelessWidget {
       child: Column(
         children: <Widget>[
           ImageAndIcons(size: size),
+          TitleAndPrice(title: "Angleica", country: "Russia", price: 400),
         ],
       ),
     );
