@@ -29,9 +29,17 @@ class BuyAndDescriptionsButton extends StatelessWidget {
             ),
           ),
         ),
-        Expanded(
+        SizedBox(
+          width: size.width / 2,
+          height: 84,
           child: TextButton(
             onPressed: () {},
+            style: TextButton.styleFrom(
+              // backgroundColor: kPrimaryColor,
+              shape: const RoundedRectangleBorder(
+                borderRadius: BorderRadius.only(topLeft: Radius.circular(20)),
+              ),
+            ),
             child: const Text(
               "Descriptions",
               style: TextStyle(color: Colors.black, fontSize: 16),
