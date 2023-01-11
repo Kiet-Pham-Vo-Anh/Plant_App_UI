@@ -7,7 +7,7 @@ A new Flutter project.
 
 ## Getting Started
 ```
-kietanh
+git clone git@github.com:thanhtruong-agilityio/kiet-pham-flutter-training.gitalksdjflkasjdflkasjdflkjasdlkjflasdjlfjlasdkjlfklasdjflkasjdklfjaklsdjfkljaskldjflajsdljfajsdlfjklasdjkfljasdklfjklasdjklfjasldkjfklajsdklfjaskdljflkajsdklfjaklsdjfklajsdfj
 ```
 
 This project is a starting point for a Flutter application.
