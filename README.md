@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+* [Getting Started](https://github.com/Kiet-Pham-Vo-Anh/Plant_App_UI/edit/main/README.md##Getting-Started)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
