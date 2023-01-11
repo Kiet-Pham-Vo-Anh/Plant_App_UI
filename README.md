@@ -2,8 +2,8 @@
 
 A new Flutter project.
 
-* [Getting Started](https://github.com/Kiet-Pham-Vo-Anh/Plant_App_UI#getting-started)
-* [Getting](/Kiet-Pham-Vo-Anh/Plant_App_UI##Getting)
+* [Getting Started](#getting-started)
+* [Getting](##Getting)
 
 ## Getting Started
 ```
